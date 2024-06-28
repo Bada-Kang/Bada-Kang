@@ -3,7 +3,7 @@
 ***
 
 ### 👑 Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202111255&langs_count=10&layout=compact&theme=default)](https://github.com/202111255/202111255)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202111255&langs_count=20&layout=compact&theme=default)](https://github.com/202111255/202111255)
 
 ### Hi there 👋
 
