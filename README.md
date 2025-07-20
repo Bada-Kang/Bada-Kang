@@ -93,14 +93,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Top Languages
 
-![Bada's GitHub stats](https://github-readme-stats.vercel.app/api?username=202111255&count_private=true&show_icons=true&theme=dracula)]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bada-Kang&count_private=true&show_icons=true&theme=tokyonight-light" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bada-Kang&layout=compact&langs_count=8&theme=tokyonight-light" height="240"/>
+</p>
 
----
 
-
-## 👑 Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=202111255&langs_count=10&layout=compact&theme=default)](https://github.com/202111255/202111255)
 
 
