@@ -2,12 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=Hi,%20I'm%20Bada%20Kang!%20🌊&fontSize=40&fontColor=ffffff)
 
 ---
-## 👩‍💻 About Me
+## 👩‍💻 About Me 
+[![🔥 Notion Portfolio](https://img.shields.io/badge/Notion-Portfolio-D9E334?style=for-the-badge&logo=notion&logoColor=white)](https://night-quarter-f6c.notion.site/2070d8471aa780f5b435cc84c7d66427)
 
 [![Email](https://img.shields.io/badge/Email-kbd1120@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kbd1120@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-202111255-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/202111255)
 [![Blog](https://img.shields.io/badge/Tistory-Blog-20C997?style=for-the-badge&logo=bookstack&logoColor=white)](https://oceansea.tistory.com)
 [![Instagram](https://img.shields.io/badge/@river__ocean_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/river__ocean_)
+
 
 ---
 
@@ -45,10 +47,10 @@
 
 
 ## 🧾 Certificates
-
-- 📄 정보처리기사 (2025.06, 90점 합격)
+- 📄 Adsp - 데이터분석준전문가 (2025.05)
+- 📄 정보처리기사 (2025.06)
 - 📄 SQLD – 데이터베이스 개발자 (2024.12)
-- 📄 TOEIC SPEAKING - AL
+- 📄 TOEIC SPEAKING - AL (2025.08)
 
 
 ---
